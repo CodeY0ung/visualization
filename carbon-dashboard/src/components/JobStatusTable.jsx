@@ -1,5 +1,5 @@
 const JobStatusTable = ({ jobs }) => (
-  <table className="w-full border-collapse text-sm">
+  <table className="w-full text-sm table-auto border-separate border-spacing-y-2">
     <thead className="bg-gray-200 dark:bg-zinc-700">
       <tr>
         <th className="text-left px-4 py-2">ID</th>
